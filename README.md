@@ -20,7 +20,7 @@
 ### 环境要求
 - Windows 操作系统（使用了 `windows.h` 的控制台功能）
 - 支持 C99 或更新标准的编译器（如 GCC、MSVC）
-
+- 目前仅支持Windows（未测试其他平台）
 ### 编译
 ```bash
 gcc main.c -o bus_route.exe
