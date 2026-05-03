@@ -77,5 +77,5 @@ Route2 8 : S1 10 S3 15 S6 5 S7 5 S8 5 S9 25 S14 5 S15
 
 ## 🧑‍💻 关于作者
 此项目为学习数据结构与算法时编写的练手作品，欢迎 issue 讨论，但请勿用于学术作业或商业用途的直接复制。  
-反馈与改进建议请通过 GitHub 提交。
+反馈与改进建议请通过 [Gitee](https://gitee.com/xyzshc/bus-route-finder) 或 [GitHub](https://github.com/gitcoder-long/BusRouteFinder) 提交。
 ```
